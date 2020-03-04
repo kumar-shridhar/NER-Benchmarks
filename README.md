@@ -10,4 +10,4 @@ We compare how NeuralSpace's solution [TextSpace](https://neuralspace.ai/textspa
 
 
 ## Results
-[TextSpace outperforms other solutions](results.png)
+![TextSpace outperforms other solutions](results.png)
