@@ -7,3 +7,7 @@ We compare how NeuralSpace's solution [TextSpace](https://neuralspace.ai/textspa
 - StanfordNLP: http://corenlp.run/
 - Dialogflow: https://dialogflow.com/
 - TextSpace: https://ns-demo.azurewebsites.net/
+
+
+## Results
+[TextSpace outperforms other solutions](results.png)
